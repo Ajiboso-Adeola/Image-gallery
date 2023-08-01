@@ -13,7 +13,7 @@ No picture should be the same in the gallery.
 [live Demo](https://image-gallery-ivory-nu.vercel.app/)
 
 ## ScreenShot
-![Screenshot](image.png)
+<img title="Screenshot of Image Gallery" alt="screenshot" src="/images/image.png">
 
 ## Author
 👤 **Adeola Ajiboso**
